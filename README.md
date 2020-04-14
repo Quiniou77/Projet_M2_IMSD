@@ -1,4 +1,4 @@
-# Master 2 Innvation Marché et Sciences des Données 
+# Master 2 Innovation Marché et Sciences des Données 
 
 ### Université Paris Saclay (Evry Val d'Essonne)
 
