@@ -6,7 +6,21 @@
 
 
 Les différents projets sont :
+
+ - Machine Learning 
  
- - Datamining (NLP sur les tweets des candidats aux élections munipales de Paris 2020)
+ - Deep Learning 
  
- - Modèles à Equations Structurelles
+ - Datamining (NLP sur les tweets des candidats aux élections munipales de Paris 2020) sur Python
+ 
+ - Analyse des Séries Temporelles sur R
+ 
+ - Scoring sur R et Python
+ 
+ - Python
+ 
+ - Scala 
+ 
+ - Modèles à Equations Structurelles sur R
+ 
+ - Multicolinéarité et régression PLS sur R, Python et SAS
