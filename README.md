@@ -24,6 +24,8 @@ Les différents projets sont :
 
 ### CRM
  
+ * Construire un nouveau modèle permettant de prédir des retards de vols
+ * Déploiement fonctionnel de ce modèle afin d’optimiser la relation client.   
  
 ### Analyse des Séries Temporelles sur R
  
