@@ -19,7 +19,9 @@ Les différents projets sont :
 * Proposer au moins 3 modèles de prévision, dont un réseau de neurones utilisant la librairie tensorflow. Pour les deux autres             modèles, vous utiliserez obligatoirement les librairies sklearn et numpy.
  
  
-### Datamining (NLP sur les tweets des candidats aux élections munipales de Paris 2020) sur Python
+### Datamining 
+
+ * NLP sur les tweets des candidats aux élections munipales de Paris 2020) sur Python
 
 
 ### CRM
