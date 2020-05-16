@@ -49,5 +49,11 @@ Les différents projets sont :
  
 ### Modèles à Equations Structurelles sur R
 
- 
+ * L’objectif de ce TP est de construire différents modèles à équations structurelles sur des données issues de la téléphonie mobile
+   
 ### Multicolinéarité et régression PLS sur R, Python et SAS
+
+ * L’objectif de ce TP est de construire des modèles sur des données à forte multicolinéarité entre les prédicteurs.
+
+ * Les données sont issues des résultats des deux tours des élections présidentielles de 2017. L’objectif final est de modéliser les        résultats du second tour, de cerner les grandes tendances, de détecter des départements atypiques ou mal reconstitués, etc.   
+
