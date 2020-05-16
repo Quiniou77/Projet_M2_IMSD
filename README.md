@@ -10,7 +10,7 @@ Les différents projets sont :
 ### Machine Learning 
  
  
-### Deep Learning (Réseau de Neurones)
+### Deep Learning (Réseaux de Neurones)
  
 * Objectif : Se basant sur l’indice S&P 500, ce projet a pour objectif de présenter un outil d'analyse de séries financières 
       
