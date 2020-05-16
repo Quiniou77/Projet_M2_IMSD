@@ -59,8 +59,18 @@ Les différents projets sont :
  
 ### Scala 
 
+ * Programmer une tondeuse à gazon automatique pour parcourir l'intégralité d'une surface rectangulaire
+ 
  
 ### Analyse des Séries Temporelles sur R
+ 
+ * Etudier des séries temporelles (graphiques)
+ * Tests de Non Stationnarité
+ * Rendre des séries temporelles stationnaires
+ * Estimation de Modèles ARIMA
+ * Faire une prédiction de séries temporelles
+ * Faire des tests de Cointégration
+ * Estimation de modèles VAR
  
  
 ### Modèles à Equations Structurelles sur R
