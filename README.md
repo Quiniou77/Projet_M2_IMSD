@@ -8,7 +8,13 @@
 Les différents projets sont :
 
 ### Machine Learning 
- 
+
+* Ce projet rentre dans le cadre d’une compétition collaborative de Data Science sur la plateforme RAMP.
+* L’objectif de ce challenge RAMP est de créer un modèle robuste de prédiction à partir de données publiques.
+
+* Problématique
+1. Comment répartir les avions entre les différents itinéraires possibles ?
+2. Combien de passagers voyageront à une date donnée ?
  
 ### Deep Learning (Réseaux de Neurones)
  
