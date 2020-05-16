@@ -16,6 +16,7 @@ Les différents projets sont :
 1. Comment répartir les avions entre les différents itinéraires possibles ?
 2. Combien de passagers voyageront à une date donnée ?
  
+ 
 ### Deep Learning (Réseaux de Neurones)
  
 * Objectif : Se basant sur l’indice S&P 500, ce projet a pour objectif de présenter un outil d'analyse de séries financières 
@@ -25,9 +26,17 @@ Les différents projets sont :
 * Proposer au moins 3 modèles de prévision, dont un réseau de neurones utilisant la librairie tensorflow. Pour les deux autres             modèles, vous utiliserez obligatoirement les librairies sklearn et numpy.
  
  
-### Datamining 
+### Datamining (Natural Langage processing)
 
- * NLP sur les tweets des candidats aux élections munipales de Paris 2020) sur Python
+ * Analyser sur Twitter les enjeux du scrutins aux municipales 2020 à Paris.
+ * Cette étude m'a permi, de décrypter et de comparer les programmes des têtes de listes à Paris mais surtout,
+   de recueillir et d'analyser les avis des Followers de ces principaux candidats.
+
+ * Collecte des données
+   La collecte des données a été réalisé grâce à l’API Twitter ainsi qu’à la librairie Twint. 
+   
+ * J'ai concentré mon analyse sur les followers des candidats suivant : David Belliard, Agnès Buzyn, Rachida Dati, Anne
+   Hidalgo et Cédric Villani.
 
 
 ### CRM
@@ -35,21 +44,29 @@ Les différents projets sont :
  * Construire un nouveau modèle permettant de prédir des retards de vols
  * Déploiement fonctionnel de ce modèle afin d’optimiser la relation client   
  
-### Analyse des Séries Temporelles sur R
- 
  
 ### Scoring sur R et Python
 
- 
+ * Régression logistique sur variables quantitatives
+ * On souhaite modéliser le défaut d’un portefeuille composé de plusieurs entreprises afin d’anticiper le comportement d’entités  
+   nouvelles.
+   
+   
 ### Python
 
+ * Scraping du site alociné.fr et analyser les caractéristiques de ces films sur la période 2010-2019
+ 
  
 ### Scala 
+
+ 
+### Analyse des Séries Temporelles sur R
  
  
 ### Modèles à Equations Structurelles sur R
 
  * L’objectif de ce TP est de construire différents modèles à équations structurelles sur des données issues de la téléphonie mobile
+ 
    
 ### Multicolinéarité et régression PLS sur R, Python et SAS
 
