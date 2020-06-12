@@ -82,5 +82,11 @@ Les différents projets sont :
 
  * L’objectif de ce TP est de construire des modèles sur des données à forte multicolinéarité entre les prédicteurs.
 
- * Les données sont issues des résultats des deux tours des élections présidentielles de 2017. L’objectif final est de modéliser les        résultats du second tour, de cerner les grandes tendances, de détecter des départements atypiques ou mal reconstitués, etc.   
+ * Les données sont issues des résultats des deux tours des élections présidentielles de 2017. L’objectif final est de modéliser les        résultats du second tour, de cerner les grandes tendances, de détecter des départements atypiques ou mal reconstitués, etc.  
+ 
+ ### Lunix (Réalisation d'une Todo List)
+ 
+ * Garder une liste dans mon ordinateur et pouvoir ajouter des tâches, les lister, et les supprimer.
+ 
+### Spark (en cours)
 
