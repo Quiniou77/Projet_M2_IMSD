@@ -63,6 +63,8 @@ Les différents projets sont :
  
  
 ### Analyse des Séries Temporelles sur R
+
+Ce projet a pour objectif, d’appliquer les séries temporelles dans une dynamique d’analyse, de modélisation et de prévision des observations.
  
  * Etudier des séries temporelles (graphiques)
  * Tests de Non Stationnarité
@@ -89,4 +91,12 @@ Les différents projets sont :
  * Garder une liste dans mon ordinateur et pouvoir ajouter des tâches, les lister, et les supprimer.
  
 ### Spark (en cours)
+
+L'objectif de ce projet est de faire une analyse sur la plateforme Hadoop en respectant les étapes suivantes:
+
+* Nettoyage, chargement et transformation des données sous Hive. Pour Hive, stockage de toutes les données dans une base.
+
+* Analyse rapide des données; visualisation : utilisant spark sql à partir de zeppelin.
+
+* Analyse et évaluation des modèles sous Spark via les langages Python (Pyspark).
 
