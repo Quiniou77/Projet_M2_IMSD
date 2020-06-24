@@ -37,6 +37,17 @@ Les différents projets sont :
    
  * J'ai concentré mon analyse sur les followers des candidats suivant : David Belliard, Agnès Buzyn, Rachida Dati, Anne
    Hidalgo et Cédric Villani.
+   
+   
+### Spark (en cours)
+
+L'objectif de ce projet est de faire une analyse sur la plateforme Hadoop en respectant les étapes suivantes:
+
+* Nettoyage, chargement et transformation des données sous Hive. Pour Hive, stockage de toutes les données dans une base.
+
+* Analyse rapide des données; visualisation : utilisant spark sql à partir de zeppelin.
+
+* Analyse et évaluation des modèles sous Spark via les langages Python (Pyspark).
 
 
 ### CRM
@@ -89,14 +100,3 @@ Ce projet a pour objectif, d’appliquer les séries temporelles dans une dynami
  ### Lunix (Réalisation d'une Todo List)
  
  * Garder une liste dans mon ordinateur et pouvoir ajouter des tâches, les lister, et les supprimer.
- 
-### Spark (en cours)
-
-L'objectif de ce projet est de faire une analyse sur la plateforme Hadoop en respectant les étapes suivantes:
-
-* Nettoyage, chargement et transformation des données sous Hive. Pour Hive, stockage de toutes les données dans une base.
-
-* Analyse rapide des données; visualisation : utilisant spark sql à partir de zeppelin.
-
-* Analyse et évaluation des modèles sous Spark via les langages Python (Pyspark).
-
